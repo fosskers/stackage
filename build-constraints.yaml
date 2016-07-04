@@ -582,7 +582,9 @@ packages:
     "Colin Woodbury <colingw@gmail.com> @fosskers":
         - microlens-aeson
         # GHC 8 - kanji
-        # GHC 8 - versions
+        - versions
+        - vectortiles
+        - pipes-random
 
     "Ketil Malde":
         - biocore
