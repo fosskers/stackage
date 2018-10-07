@@ -988,13 +988,17 @@ packages:
         - mountpoints
         - disk-free-space
 
-    "Colin Woodbury <colingw@gmail.com> @fosskers":
+    "Colin Woodbury <colin@fosskers.ca> @fosskers":
+        - aur
+        - aura
         - kanji
         - microlens-aeson
         - pipes-random
+        - servant-xml
         - streaming-attoparsec
-        - versions
+        - throttled
         - vectortiles
+        - versions
 
     "Ketil Malde @ketil-malde":
         - biocore < 0 # build failure with GHC 8.4 https://github.com/fpco/stackage/pull/3359
